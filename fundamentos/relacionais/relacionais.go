@@ -27,4 +27,5 @@ func main() {
 	p2 := Pessoa{"João"}
 	fmt.Println("Pesoas:", p1 == p2)
 
+	
 }
