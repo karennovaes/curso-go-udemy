@@ -9,7 +9,7 @@ func main() {
 	i := 1
 
 	var p *int = nil
-	p = &i //pregando o endereçi da variável
+	p = &i //pregando o endereço da variável
 	*p++   // desreferenciando para pegar o valor
 
 	i++
